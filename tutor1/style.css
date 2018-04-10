@@ -1,0 +1,27 @@
+em {
+    color: red;
+}
+
+h1 {
+    color: yellow;
+}
+
+text2 {
+    color: green;
+    background-color: yellow;   
+}
+
+.classA {
+    color: turquoise;
+
+} 
+
+.b {
+    color: red;
+}
+
+.a {
+    font-size: 26px;
+    color: blue;
+}
+
